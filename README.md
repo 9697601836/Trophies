@@ -12,11 +12,3 @@
 <summary>[Нажать] Мой собственный курс на Яндекс Дзене</summary>
 https://dzen.ru/id/6345a4ca8353536217458353
  </details>
-
-<details>
-  
-  <summary>[Нажать] CV</summary>
- 
- [CV QA2.pdf](https://github.com/9697601836/Trophies/files/10463236/CV.QA2.pdf)
-
-</details>
