@@ -2,7 +2,7 @@
 
   <details>
         <summary>[Нажать] Мой сертификат</summary>
-![Удостоверения_2_поток_Быков_Иван_Валентинович](https://user-images.githubusercontent.com/102910350/213615186-54d30a53-58a1-48d4-8d7f-3cd489e9b8a9.jpg)
+![Удостоверения_2_поток_Быков_Иван_Валентинович](https://user-images.githubusercontent.com/102910350/213617529-cc6e42d4-72d0-4802-a3d5-e55ba717e388.jpg)
       </details>
 
  <details>
